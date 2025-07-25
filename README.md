@@ -1,10 +1,10 @@
 # Delivery-Disruption-Detective
 
-# Using SQL to Reduce Revenue Loss from Failed Courier Deliveries 🚚📉
+# Using SQL to Reduce Revenue Loss from Failed Courier Deliveries 🚚
 
 This SQL project analyzes courier delivery data to uncover patterns behind failed deliveries and their financial impact. It was built using MySQL and contains over 10,000 records of synthetic courier operations.
 
-## 🔍 Problem Statement:
+## 📉 Problem Statement:
 
 Logistics companies face recurring revenue losses due to failed deliveries caused by inaccurate addresses, poor routing, and late dispatches. This project identifies failure patterns and helps mitigate them through data insights.
 
