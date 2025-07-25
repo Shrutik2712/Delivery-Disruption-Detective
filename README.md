@@ -32,5 +32,10 @@ The dataset was generated using Python and includes:
 - What are the top failure reasons?
 - Which delivery agents have high failure rates?
 - How much cost is incurred due to returned orders?
-  
+
+## 🛠️ How to Use
+1. Run `schema.sql` in MySQL to create the database tables.
+2. Generate `data.sql` using the provided Python script (`generate_sql_data_script.py`).
+3. Run `data.sql` in MySQL to populate data.
+4. Analyze queries from `analysis_queries.sql`.
 
