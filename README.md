@@ -4,9 +4,13 @@
 
 This SQL project analyzes courier delivery data to uncover patterns behind failed deliveries and their financial impact. It was built using MySQL and contains over 10,000 records of synthetic courier operations.
 
+## 🔍 Problem Statement:
+
+Logistics companies face recurring revenue losses due to failed deliveries caused by inaccurate addresses, poor routing, and late dispatches. This project identifies failure patterns and helps mitigate them through data insights.
+
 ## 🔍 Objective
 
-To identify zones, agents, and customer types contributing to failed deliveries — and calculate the total revenue loss due to those failures and returns.
+To identify zones, agents, and customer types contributing to failed deliveries and calculate the total revenue loss due to those failures and returns.
 
 ## 🗃️ Dataset Summary
 
